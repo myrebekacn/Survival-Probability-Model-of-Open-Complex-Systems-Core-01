@@ -11,7 +11,7 @@ Research on the Survival Probability of Open Complex Systems
 
 ## 1. 核心数学模型 (The Core Equation)
 
-$$S = \frac{\eta \cdot R}{I \cdot \Delta + P} \quad (I > 0, P > 0)$$
+$$S = \frac{\eta \cdot R}{I \cdot \Delta + P} \quad (I > 0, \Delta> 0，P > 0)$$
 
 > **模型本质**：不问制度优劣或道德高下，仅探讨在偏差不可避免的世界里，系统能否持续纠偏而不被自身结构拖垮。
 
