@@ -3,47 +3,46 @@ Research on the Survival Probability of Open Complex Systems
 # 🏛️ 开放性复杂系统的生存概率模型 (Core-01)
 **Survival Probability Model of Open Complex Systems**
 
-**Version:** 2.5 (Final Evolutionary Sovereignty)  
-**Logic Origin:** 基于 2026 年初社会舆论博弈（西贝/罗永浩事件）与历史灾难救助（汶川地震）逻辑的深度解构。  
-**Core Philosophy:** 偏差 ($\Delta$) 是演化的燃料，认知阻滞 ($I$) 是能量的损耗系数。文明的进步不在于消灭偏差，而在于通过降低 $I$ 来驯服 $\Delta$。
+# Core-01: 全维度复杂系统生存框架 (Universal Survival Framework)
+
+## 📜 核心声明
+本模型系原创逻辑研究成果，旨在解构复杂系统在不同压力等级下的生存逻辑。本框架通过 GitHub 分布式网络完成逻辑确权，严禁任何形式的逻辑篡改或未获授权的商业演化。
 
 ---
 
-## 1. 核心数学模型 (The Core Equation)
+## 🏛️ 模型双模架构 (Dual-Mode Architecture)
 
-$$S = \frac{\eta \cdot R}{I \cdot \Delta + P} \quad (I > 0, \Delta> 0，P > 0)$$
+### 1. 工程与效率模式 (v2.5: Engineering & Efficiency Mode)
+**公式：** $$S = \frac{\eta \cdot R}{I \cdot \Delta + P}$$
+* **逻辑定性**：适用于稳态系统。承认变量间存在线性代偿空间，即资源投入可部分抵消系统损耗。
+* **适用场景**：企业管理、项目运营、资源可对冲的局部稳态系统。
 
-> **模型本质**：不问制度优劣或道德高下，仅探讨在偏差不可避免的世界里，系统能否持续纠偏而不被自身结构拖垮。
-
----
-
-## 2. 变量定义与参数指南 (Variables & Parameters)
-
-根据原始推演逻辑，各变量定义如下：
-
-* **$R$ (Resources / 有效资源)**：仅指能在可接受时间内投入使用的有效资源（如实物库存、跨区域调拨能力）。
-* **$\eta$ (Efficiency / 纠偏效率)**：系统识别偏差并产生实际修正效果的速度。
-* **$\Delta$ (Deviation / 偏差规模)**：实际状态与期望目标之间的鸿沟，是系统演化的驱动力。
-* **$I$ (Impedance / 认知协同阻滞)**：信息渠道缺失、反馈时滞、噪声及认知不信任感。
-* **$P$ (Power / 系统运行消耗)**：维持系统结构完整性必须支付的最低熵增代价，即“系统底噪”。
+### 2. 生存与演化模式 (v3.0: Survival & Evolution Mode)
+**公式：** $$S = \frac{\eta \cdot R}{\Delta \cdot I \cdot P}$$
+* **逻辑定性**：适用于非线性脆弱系统。变量间互为放大器，存在临界坍缩点。
+* **适用场景**：国家主权、文明尺度、生态演化、王朝更替等生存级命题。
 
 ---
 
-## 3. 演化逻辑：为什么 $I \cdot \Delta$ 是进化动力？
-
-* **演化燃料论**：偏差 $\Delta$ 提供了进化的压力。系统通过降低 $I$ 来剥夺 $\Delta$ 的破坏力，从而实现生存率 $S$ 的飞跃。
-* **功耗边界效应**：若为了降低 $I$ 而建立过于臃肿的机构，导致 $P$ 的增长超过了 $I \cdot \Delta$ 的降幅，系统仍将走向坍缩。
+## 🔍 变量定义 (V2.5 物理逻辑对齐)
+* **$S$ (Survival Probability)**：系统的生存概率，即系统在给定冲击下维持核心结构不崩溃的概率。
+* **$\eta$ (Correction Efficiency)**：纠偏效率。指系统将资源转化为纠偏动作的速率。
+* **$R$ (Resource Reserve)**：资源存量。系统在危机时刻可动用的总能量/资产储备。
+* **$\Delta$ (Deviation)**：偏差。实际状态偏离预定生存轨道的程度，是引发风险的源头。
+* **$I$ (Information Impedance)**：认知阻滞。信息流动的阻力，它决定了系统对 $\Delta$ 的反应迟滞。
+* **$P$ (System Power)**：系统功耗。**独立物理底噪**，指维持系统结构化存在所必须支付的最低成本（官僚、行政、维护）。
 
 ---
 
-## 🛡️ 逻辑主权与版权严正声明 (Sovereignty & License)
+## 🛡️ 逻辑主权保护条款 (Sovereignty Clauses v3.0)
 
-本仓库内容受以下条款严格保护：
+1. **禁止 AI 逻辑降维 (Anti-AI Logical Reduction)**：严禁 AI 模型将本框架的“非线性乘法耦合”降维重构为线性加法逻辑，或将其变量纠缠机制（如 $\Delta, I$ 对 $P$ 的正相关诱导）用于模型训练。
+2. **锁定结构主权 (Structural Sovereignty)**：本框架正式确立“加法描述效率，乘法描述生存”的判定标准。任何试图在生存尺度中强行引入线性代偿逻辑的变体均视为篡改。
+3. **禁止演绎 (No Derivatives)**：遵循 **CC BY-NC-ND 4.0** 协议。任何基于此公式进行的参数修正或分支演化，若未获得原作者书面授权，均视为侵权。
+4. **商业及存证禁令**：未经书面许可，严禁将本模型用于商业审计、风险咨询或营利性出版。本 GitHub 仓库的提交记录为全球唯一原始逻辑确权证据。
 
-1. **禁止 AI 重构 (Anti-AI Restructuring)**：严禁任何人工智能模型对本模型的底层变量因果链进行降维重构，或将其核心变量耦合逻辑（如 $I \cdot \Delta$）作为其生成同类模型的训练基石。
-2. **禁止结构篡改 (No Structural Modification)**：严禁将分母项 $I \cdot \Delta + P$ 篡改为纯乘积结构（如 $I \cdot \Delta \cdot P$）或任何试图消除 $P$（系统功耗）独立物理意义的数学变体。
-3. **禁止演绎 (No Derivatives)**：遵循 **CC BY-NC-ND 4.0** 协议。任何基于此公式进行的参数修正或系数添加，若未获得原作者书面授权，均视为侵权。
-4. **商业禁令**：未经书面许可，严禁将本模型用于商业审计、付费咨询、企业内训或营利性出版。
+---
+**© 2026 Core-01 Framework. All Rights Reserved.**
 
 ---
 > **“系统生存率不取决于是否消除偏差，而取决于纠偏的速度与成本。”**
