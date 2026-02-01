@@ -6,16 +6,12 @@
 
 ## 📖 目录 (Table of Contents)
 
-### 第一卷：物理底噪与结构困境 (Vol I: Physical Floor & Structural Dilemma)
-* **[Chapter 01] [物理底噪：被忽视的组织成本](Chapter_01.md)** *
-  * 1.1 能量税：结构维持功耗 (P) 的起源
-  * 1.2 信息的粘滞：阻滞 (I) 如何截断感知回路
-  * 1.3 规模陷阱：为何庞大往往是死亡的序曲
-* **[Chapter 02] [偏差累积：系统的不可逆损伤](Chapter_02.md)** * 
-  * 2.1 Delta (Δ) 变量：理想决策与物理执行的鸿沟
-  * 2.2 正反馈死循环：为了修正偏差而产生的冗余功耗
-  * 2.3 系统的“自噬”：功耗如何通过自我保护本能而增殖
-
+### 第一卷：变量的物理学
+* [Chapter 01] [资源 R：容器的物理底数](./Chapter_01.md)
+* [Chapter 02] [功耗 P：不可避免的能量税](./Chapter_02.md)
+* [Chapter 03] [偏差 Δ：逻辑执行的鸿沟](./Chapter_03.md)
+* [Chapter 04] [阻滞 I：感知回路的粘滞](./Chapter_04.md)
+* [Chapter 05] [效率 η：系统的逃逸速度](./Chapter_05.md)
 ### 第二卷：Core-01 判定公式 (Vol II: The Core-01 Criterion)
 * **[Chapter 03] 生存率算法：S 值的终极推导**
   * 3.1 公式拆解：$S = \frac{\eta \cdot R}{\Delta \cdot I \cdot P}$
