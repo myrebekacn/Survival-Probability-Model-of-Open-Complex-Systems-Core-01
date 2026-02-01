@@ -32,7 +32,7 @@ $$S = \frac{\eta \cdot R}{\Delta \cdot I \cdot P}$$
 $$\eta \cdot R \le \Delta \cdot I \cdot P$$
 
 * **逻辑定性**：**非线性闪崩 (Death Spiral)**。变量间产生乘法共振，任何微小偏差 $\Delta$ 在高阻滞 $I$ 和高功耗 $P$ 下都会引发连锁反应，导致系统瞬间坍缩。
-* **适用场景**：国家主权、文明尺度、历史王朝崩溃。
+* **适用场景**封建国家的崩溃、。
 
 ---
 
