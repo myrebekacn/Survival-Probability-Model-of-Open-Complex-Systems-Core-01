@@ -39,7 +39,7 @@ $$\eta \cdot R \le \Delta \cdot I \cdot P$$
 * **$\eta$ (Correction Efficiency)**：纠偏效率。指系统将资源转化为有效纠偏动作的速率。
 * **$R$ (Resource Reserve)**：资源存量。系统在危机时刻可动用的总能量/资产储备。
 * **$\Delta$ (Deviation)**：偏差（动因）。实际状态偏离预定轨道的程度。
-* **$I$ (Information Impedance)**：**认知阻滞 ($I \ge 1$)**。
+* **$I$ (Information Impedance)**：**信息认知阻滞 ($I \ge 1$)**。
     > **逻辑限制**：$I$ 必须大于或等于 1。它是系统逻辑成立的条件。
 * **$P$ (System Power)**：系统功耗。**独立物理底噪**，指维持系统结构化存在所必须支付的最低成本。
 
