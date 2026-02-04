@@ -53,6 +53,7 @@ $$ S_t = \frac{\eta_t \cdot R_t}{\Delta_t \cdot \tilde{I}_t + P_t} $$
 
 $$ \tilde{I}_t = I_{\text{物理}} \times (1 + \sigma_{\text{cognitive}} + \sigma_{\text{strategic}} + \sigma_{\text{structural}}) $$
 
+## " $\sigma$ "包括但不限于：
 - \( I_{\text{物理}} \)：物理信道的基础阻抗（相对稳定）
 - \( \sigma_{\text{cognitive}} \)：认知过滤导致的波动
 - \( \sigma_{\text{strategic}} \)：策略性行为导致的波动
@@ -87,4 +88,4 @@ $$ \tilde{I}_t = I_{\text{物理}} \times (1 + \sigma_{\text{cognitive}} + \sigm
 
 ---
 **© 2026 Core-01 Framework. All Rights Reserved.**
-> **“系统生存率不取决于是否消除偏差，而取决于纠偏的速度与成本。”**
+
