@@ -40,6 +40,23 @@ $$S = \frac{\eta \cdot R}{I \cdot \Delta + P}$$
 $$S = \frac{\eta \cdot R}{\Delta \cdot I \cdot P}$$
 * **逻辑定性**：**非线性闪崩 (Death Spiral)**。
 * **物理意义**：**韧性瞬间归零**。变量间产生乘法共振，任何微小偏差 $\Delta$ 在高阻滞 $I$ 和高功耗 $P$ 下都会引发连锁反应，导致系统结构瞬间解体。
+  
+* ### 3. 模型扩展：将波动性正式纳入方程
+
+我们可以将原方程扩展为：
+
+$$ S_t = \frac{\eta_t \cdot R_t}{\Delta_t \cdot \tilde{I}_t \cdot P_t} $$
+
+其中：
+
+$$ \tilde{I}_t = I_{\text{物理}} \times (1 + \sigma_{\text{cognitive}} + \sigma_{\text{strategic}} + \sigma_{\text{structural}}) $$
+
+- \( I_{\text{物理}} \)：物理信道的基础阻抗（相对稳定）
+- \( \sigma_{\text{cognitive}} \)：认知过滤导致的波动
+- \( \sigma_{\text{strategic}} \)：策略性行为导致的波动
+- \( \sigma_{\text{structural}} \)：系统结构变化导致的波动
+
+**关键洞察**：正是这些σ项——特别是认知和策略性波动——将生命/社会系统与物理系统区分开来，并成为演化的核心动力。
 
 ---
 
