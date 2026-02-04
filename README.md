@@ -41,11 +41,12 @@ $$S = \frac{\eta \cdot R}{\Delta \cdot I \cdot P}$$
 * **逻辑定性**：**非线性闪崩 (Death Spiral)**。
 * **物理意义**：**韧性瞬间归零**。变量间产生乘法共振，任何微小偏差 $\Delta$ 在高阻滞 $I$ 和高功耗 $P$ 下都会引发连锁反应，导致系统结构瞬间解体。
   
-* ### 3. 模型扩展：将波动性正式纳入方程
+### 3. 模型扩展：将波动性正式纳入方程
 
 我们可以将原方程扩展为：
 
 $$ S_t = \frac{\eta_t \cdot R_t}{\Delta_t \cdot \tilde{I}_t \cdot P_t} $$
+$$ S_t = \frac{\eta_t \cdot R_t}{\Delta_t \cdot \tilde{I}_t + P_t} $$
 
 其中：
 
