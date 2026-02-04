@@ -46,6 +46,7 @@ $$S = \frac{\eta \cdot R}{\Delta \cdot I \cdot P}$$
 我们可以将原方程扩展为：
 
 $$ S_t = \frac{\eta_t \cdot R_t}{\Delta_t \cdot \tilde{I}_t \cdot P_t} $$
+
 $$ S_t = \frac{\eta_t \cdot R_t}{\Delta_t \cdot \tilde{I}_t + P_t} $$
 
 其中：
